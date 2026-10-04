@@ -1,6 +1,3 @@
-
-# transaction-fraud-detection-simulator
-
 # Transaction Fraud Detection Simulator
 
 A rule-based fraud detector written in Python. It generates **synthetic** card transactions (no real financial data), scores each one with a set of risk rules, and reports how well the rules catch the injected fraud.
