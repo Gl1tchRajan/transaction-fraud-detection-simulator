@@ -78,6 +78,11 @@ python3 test_fraud_detector.py
 ## Example output
 
 Default settings (`python3 fraud_detector.py`):
+
+![Sample output of the fraud detector](screenshots/output.png)
+
+Text version of the same run:
+
 ```
 Transactions analysed : 3180
 Actual fraud (synthetic): 160
