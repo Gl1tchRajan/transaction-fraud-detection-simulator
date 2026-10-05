@@ -1,9 +1,5 @@
 # Transaction Fraud Detection Simulator
-<p align="center">
-  <img width="750" alt="Output of the fraud detection simulator" src="screenshots/Financial_Fraud_Output.jpeg" />
-  <br>
-  <em>Simulator output: summary results and the top 10 highest-risk transactions</em>
-</p>
+<img width="750" alt="..." src="https://github.com/user-attachments/assets/..." />
 
 A rule-based fraud detection simulator written in Python. It generates **synthetic** card transactions (no real financial data), scores each one against a set of risk rules, flags the suspicious ones, and measures how well the rules catch the fraud that was injected into the data.
 
