@@ -78,6 +78,7 @@ python3 test_fraud_detector.py
 ## Example output
 
 Default settings (`python3 fraud_detector.py`):
+![Uploading image.png…]()
 
 ```
 ![Uploading image.png…]()
