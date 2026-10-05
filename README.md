@@ -78,7 +78,7 @@ python3 test_fraud_detector.py
 ## Example output
 
 Default settings (`python3 fraud_detector.py`):
-<img width="750" alt="Cloning and running the simulator" src="screenshots/run.png" />
+<img width="750" alt="Financial Fraud Detection Terminal Output" src="./Financial%20Fraud%20Output.jpeg" />
 
 Text version of the same run:
 
