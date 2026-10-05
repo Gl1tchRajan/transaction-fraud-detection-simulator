@@ -5,6 +5,7 @@ A rule-based fraud detection simulator written in Python. It generates **synthet
 Built as a learning project to connect cybersecurity skills with financial technology: transaction monitoring, risk scoring, and evaluating detection quality.
 
 ## Features
+![Uploading image.png…]()
 
 - Synthetic data generator with realistic normal spending per customer
 - Three injected fraud patterns with ground-truth labels
