@@ -80,6 +80,8 @@ python3 test_fraud_detector.py
 Default settings (`python3 fraud_detector.py`):
 
 ```
+![Uploading image.png…]()
+
 Transactions analysed : 3180
 Actual fraud (synthetic): 160
 Flagged by detector    : 133
