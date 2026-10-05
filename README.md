@@ -78,7 +78,7 @@ python3 test_fraud_detector.py
 ## Example output
 
 Default settings (`python3 fraud_detector.py`):
-<img width="750" src="https://github.com/user-attachments/assets/YOUR-IMAGE-ID-HERE" />
+<img width="750" alt="Sample output" src="screenshots/output.png" />
 Text version of the same run:
 
 ```
